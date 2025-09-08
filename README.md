@@ -10,3 +10,7 @@ sample size of respondents between the ages of 18 and 29 was 2,073. You can
 learn more about the EAMMi2 study [here](https://osf.io/te54b/)."
 
 We will be working with a reduced version of the original EAMMi2 data.
+
+## Task
+
+Go through my checklist and learn some things about the data.  Be ready to report back at the end of class.
