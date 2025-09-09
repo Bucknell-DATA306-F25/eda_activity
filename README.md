@@ -13,4 +13,4 @@ We will be working with a reduced version of the original EAMMi2 data.
 
 ## Task
 
-Go through my checklist and learn some things about the data.  Be ready to report back at the end of class.
+Go through [my checklist](https://mcconvil.github.io/data306f25/data306_wk03tues.html#/general-incomplete-eda-checklist) and learn some things about the data.  Be ready to report back at the end of class.
